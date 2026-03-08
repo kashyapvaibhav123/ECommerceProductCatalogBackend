@@ -1,0 +1,15 @@
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/bin/Debug/net9.0/ECommerceProductCatalog.Application.deps.json
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/bin/Debug/net9.0/ECommerceProductCatalog.Application.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/bin/Debug/net9.0/ECommerceProductCatalog.Application.pdb
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/bin/Debug/net9.0/ECommerceProductCatalog.Domain.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/bin/Debug/net9.0/ECommerceProductCatalog.Domain.pdb
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.csproj.AssemblyReference.cache
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.AssemblyInfoInputs.cache
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.AssemblyInfo.cs
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.csproj.CoreCompileInputs.cache
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerc.4AB0DE10.Up2Date
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/refint/ECommerceProductCatalog.Application.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ECommerceProductCatalog.Application.pdb
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Application/obj/Debug/net9.0/ref/ECommerceProductCatalog.Application.dll

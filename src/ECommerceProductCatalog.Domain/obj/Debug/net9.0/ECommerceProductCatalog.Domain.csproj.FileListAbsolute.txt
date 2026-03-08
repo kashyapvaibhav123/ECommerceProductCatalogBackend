@@ -1,0 +1,11 @@
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/bin/Debug/net9.0/ECommerceProductCatalog.Domain.deps.json
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/bin/Debug/net9.0/ECommerceProductCatalog.Domain.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/bin/Debug/net9.0/ECommerceProductCatalog.Domain.pdb
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.AssemblyInfoInputs.cache
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.AssemblyInfo.cs
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/refint/ECommerceProductCatalog.Domain.dll
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ECommerceProductCatalog.Domain.pdb
+/Users/mac/ECommerceProductCatalog/src/ECommerceProductCatalog.Domain/obj/Debug/net9.0/ref/ECommerceProductCatalog.Domain.dll
