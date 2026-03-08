@@ -175,8 +175,10 @@ dotnet test
 
 Angular frontend repository:
 
+
+
 ```
-https://github.com/YOUR_USERNAME/ECommerceProductCatalogFrontend
+https://github.com/kashyapvaibhav123/ECommerceProductCatalogFrontend.git
 ```
 
 ---
